@@ -1,0 +1,20 @@
+.autocomplete {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    /* text-align: center; */
+    margin-top: 2%;
+    z-index: 2;
+}
+.nameInput{
+    border: 1.3px inset lightpink;
+}
+.smtArrow{
+    background-color: lightpink;
+    /* border-color: lightpink; */
+    border: 1.3px outset lightpink;
+    color: white;
+}
+
+

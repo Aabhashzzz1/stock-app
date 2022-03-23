@@ -1,0 +1,7 @@
+.gchart{
+    position: relative;
+  margin-top: -4%;
+  display: block;
+  /* background-color: blueviolet; */
+  z-index: 1;
+}
